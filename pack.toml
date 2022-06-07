@@ -1,0 +1,13 @@
+name = "OptiPack"
+author = "Moxvallix"
+version = "1.2.3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "adf67eac5cd46d6dc2691c357e36abe13907b37b495d5132995d414e369a264d"
+
+[versions]
+fabric = "0.14.6"
+minecraft = "1.18.2"

@@ -1,0 +1,20 @@
+{
+	// The type of flight used by freecam.
+	"flightMode": "CREATIVE",
+	// The horizontal speed of freecam.
+	"horizontalSpeed": 1.0,
+	// The vertical speed of freecam.
+	"verticalSpeed": 1.0,
+	// Whether you can travel through blocks in freecam.
+	"noclip": true,
+	// Whether you can interact with blocks/entities in freecam.
+	"allowInteract": false,
+	// Whether taking damage disables freecam.
+	"disableOnDamage": true,
+	// Whether your player is shown in your original position.
+	"showPlayer": true,
+	// Whether you can see your hand in freecam.
+	"showHand": false,
+	// Whether action bar notifications are displayed.
+	"notify": true
+}

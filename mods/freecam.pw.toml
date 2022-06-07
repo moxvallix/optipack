@@ -1,0 +1,11 @@
+name = "Freecam"
+filename = "freecam-1.0.6+1.18.jar"
+side = "client"
+
+[download]
+url = "https://github.com/hashalite/Freecam/releases/download/1.0.6-mc1.18/freecam-1.0.6+1.18.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "d87fcc717ace8080bb3fda025bdcd5d0b5758cd5725e28eacb65df5a18b4c7a4"
