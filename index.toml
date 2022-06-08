@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e"
-
-[[files]]
 file = "config/custom-hud/config.json"
 hash = "8f64f19131bd4883a9e2ccbb1bad130375558feb628265a29238a4150b0d845a"
 
@@ -182,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "70a1bcdd0e030bd21835f29b9135e836e293acbadd99cf638cc1a9627c0fc428"
+hash = "1e6a58053654dac19601133b5260550bd833d681f70598af203e4e0d4da3b3d6"
 metafile = true
 
 [[files]]
