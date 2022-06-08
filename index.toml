@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".changelog.md.kate-swp"
-hash = "0b7c2de31fa6715f3364ba02b882102885e70e7aa7b72d4614527f1e802e1c11"
+file = "LICENSE"
+hash = "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e"
 
 [[files]]
 file = "config/custom-hud/config.json"
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3c3d7e7f9e0ae6a978564276c618a802d0c54c4ca098a7a897252a662ff4723a"
+hash = "9611f32bc292985e124bc568db7f5c8c9c2660d02a92f4eaa80d6455d82d0713"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "1e6a58053654dac19601133b5260550bd833d681f70598af203e4e0d4da3b3d6"
+hash = "70a1bcdd0e030bd21835f29b9135e836e293acbadd99cf638cc1a9627c0fc428"
 metafile = true
 
 [[files]]

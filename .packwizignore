@@ -1,2 +1,4 @@
+.directory
+*.kate-swp
 readme.md
 changelog.md
