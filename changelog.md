@@ -186,3 +186,40 @@ Changelog for OptiPack
 
 ### Removed
 - Cull Leaves was replaced by Cull Less Leaves.
+
+## [1.3.0] 2022-6-9
+### Changed
+- Minecraft 1.19 is required.
+- Fabric 0.14.7 is used.
+- Auth Me was updated to version 4.0.0
+- C2ME was updated to version 0.2.0-alpha8
+- Continuity was updated to version 2.0.0
+- Cull Less Leaves was updated to version 1.0.2
+- Dynamic FPS was updated to version 2.1.0
+- Entity Culling was updated to version 1.5.2
+- Fabric API was updated to version 0.55.3
+- Fabric Language Kotlin was updated to version 1.7.4
+- Freecam was updated to version 1.0.6
+- Indium was updated to version 1.0.4
+- Iris was updated to version 1.2.5
+- Kappa was updated to version 3.0.3
+- Krypton was updated to version 0.2.0
+- LazyDFU was updated to version 0.1.3
+- Mod Menu was updated to version 4.0.0
+- Pick Block Pro was updated to version 1.6.11
+- Reese's Sodium Options was updated to version 1.4.3
+- Sodium was updated to version 0.4.2
+- Sodium Extra was updated to version 0.4.5
+- Starlight was updated to version 1.1.0
+- Tooltip Tweaks was updated to version 1.1.0
+- Zoomify was updated to version 1.6.2
+
+### Removed
+#### The following mods were temporarily removed as they do not support 1.19.
+- Custom HUD
+- DeathLog
+- EBE
+- LambdaBetterGrass
+- LambDynamicLights
+- Lithium
+- Seamless Loading Screen

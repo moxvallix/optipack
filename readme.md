@@ -17,6 +17,15 @@ It is a pack that has been fine-tuned to fit our play style. I started making th
 ![Saved Hotbar](https://i.imgur.com/qB9sy95.png)
 
 ## List of Mods
+### Mods not yet on 1.19
+- CustomHUD
+- Deathlog
+- EBE
+- LambdaBetterGrass
+- LambDynLights
+- Lithium
+- Seamless Loading Screen
+
 ### Optimisation Mods
 [C2ME](https://modrinth.com/mod/c2me-fabric) - A Fabric mod designed to improve the chunk performance of Minecraft.\
 [Continuity](https://modrinth.com/mod/continuity) -  A Fabric mod that allows for efficient connected textures.\
@@ -31,6 +40,7 @@ It is a pack that has been fine-tuned to fit our play style. I started making th
 - [Indium](https://modrinth.com/mod/indium) -  Sodium addon providing support for the Fabric Rendering API, based on Indigo.
 - [Reeses Options](https://modrinth.com/mod/reeses-sodium-options) -  Alternative Options Menu for Sodium.
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra) -  Features that shouldn't be in Sodium.
+
 [Starlight](https://modrinth.com/mod/starlight) -  Rewrites the light engine to fix lighting performance and lighting errors.
 
 ### Quality of Life Mods
@@ -40,9 +50,11 @@ It is a pack that has been fine-tuned to fit our play style. I started making th
 [Freecam](https://github.com/hashalite/Freecam) - A simple, standalone freecam mod for Minecraft.\
 [Iris](https://modrinth.com/mod/iris) -  A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs.\
 [Kappa](https://modrinth.com/mod/kappa) - Adds OptiFine capes to snapshots...\
+[LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) -  A Minecraft mod which adds better grass and snow to the game.\
 [LambDynLights](https://modrinth.com/mod/lambdynamiclights) -  A dynamic lights mod for Fabric.\
 [ModMenu](https://modrinth.com/mod/modmenu) -  Adds a mod menu to view the list of mods you have installed.\
 [Pick Block Pro](https://modrinth.com/mod/pick-block-pro) -  An advanced client side Block, Entity, NBT, Tool and ID picker (Fabric).\
+[Seamless Loading Screen](https://modrinth.com/mod/seamless-loading-screen) -  Takes a screenshot of the game when you leave a world or server, and displays it when you rejoin it.\
 [Tooltip Tweaks](https://modrinth.com/mod/tooltiptweaks) -  New, improved, and configurable tooltips.\
 [Zoomify](https://modrinth.com/mod/zoomify) -  A zoom mod with infinite customizability.
 
@@ -51,4 +63,4 @@ It is a pack that has been fine-tuned to fit our play style. I started making th
 [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) - Enables usage of the Kotlin programming language for Fabric mods.
 
 ## License
-I am not very sure how a modpack is meant to be licensed. I didn't make any of these mods, but I guess my particular configuration can be licensed? IDK. Each mod has it's own license, which can be found with the provided links above. As for my particular configuration, saved in this modpack, I just went with unlicense. 
+I am not very sure how a modpack is meant to be licensed. I didn't make any of these mods, but I guess my particular configuration can be licensed? IDK. Each mod has it's own license, which can be found with the provided links above. As for my particular configuration, saved in this modpack, I just went with unlicense.

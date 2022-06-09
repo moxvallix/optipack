@@ -1,5 +1,4 @@
 .directory
 *.kate-swp
-readme.md
-changelog.md
-LICENSE
+*.md
+*.disabled
