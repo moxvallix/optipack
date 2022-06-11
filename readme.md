@@ -22,8 +22,6 @@ It is a pack that has been fine-tuned to fit our play style. I started making th
 - Deathlog
 - EBE
 - LambdaBetterGrass
-- LambDynLights
-- Lithium
 - Seamless Loading Screen
 
 ### Optimisation Mods

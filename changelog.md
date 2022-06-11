@@ -223,3 +223,12 @@ Changelog for OptiPack
 - LambDynamicLights
 - Lithium
 - Seamless Loading Screen
+
+## [1.3.1] 2022-6-11
+### Added
+#### The following mods have been re-added as they are now compatible with 1.19
+- LambDynamicLights (2.1.2): Optifine-like dynamic lighting.
+- Lithium (0.8.0): software performance optimisation mod.
+
+### Changed
+- Fabric Language Kotlin was updated to version 1.8.0.
