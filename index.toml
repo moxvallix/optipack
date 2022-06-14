@@ -57,8 +57,13 @@ hash = "cb14cb30c723d1ed83f1d612b61b12134ea3a39fcff3ae02c2aedc2c1aa12a67"
 metafile = true
 
 [[files]]
+file = "mods/deathlog.pw.toml"
+hash = "1c96024e3d4b0aee831f12a241062f3d36066a21fd0e980dd8a7d03c8e3df38a"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "ffc1f6d147394bfeb65b2fb9a78ca7d3365cbf5192c31af1312bc899190e4e34"
+hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
@@ -68,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1918aa326b46eb07df8cfcc173b089a55e0334336aa71ad3d211be90dfbe6616"
+hash = "68a7ae55f43cf6c9ddf2e3e091705538bfc5d20b7e24b38afaa4e221bbcd3979"
 metafile = true
 
 [[files]]
@@ -78,7 +83,7 @@ metafile = true
 
 [[files]]
 file = "mods/freecam.pw.toml"
-hash = "d0d1d15435a462869fd9165c0977deaaf673cb8fba1e17a808bc8c7d51c95cc3"
+hash = "c9d9f58a9932f704d3a3af71f1226ba3ac9698c407fc36747a3986ad7024812a"
 metafile = true
 
 [[files]]
@@ -153,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "9269cc9d61c5a6617f66fd711b58abffdc01e2af37bceb6c4264f8405f6da237"
+hash = "eda1cc1a41819d633cc5161ea985aa3f4cbf8f7901496bbde160c885ea808628"
 metafile = true
 
 [[files]]
