@@ -58,7 +58,7 @@ metafile = true
 
 [[files]]
 file = "mods/deathlog.pw.toml"
-hash = "1c96024e3d4b0aee831f12a241062f3d36066a21fd0e980dd8a7d03c8e3df38a"
+hash = "546e968a84693031c473e49fe1c59ea51e98f1432ec3584b287455c46b0a0d2d"
 metafile = true
 
 [[files]]
@@ -83,12 +83,12 @@ metafile = true
 
 [[files]]
 file = "mods/freecam.pw.toml"
-hash = "c9d9f58a9932f704d3a3af71f1226ba3ac9698c407fc36747a3986ad7024812a"
+hash = "b40b0af1a9957b679c6b160623cf8450bf297da4bf6955239aea70a5b9a2e966"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "86fd4c1bb6f13fa109dfd1aa1e9cb84ffe71408de8da790b21d9756972740ad1"
+hash = "bbbf79e3bc952411d58fb20119792dda0096b42784ff9398c5febd2a137153c4"
 metafile = true
 
 [[files]]
@@ -104,6 +104,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "a2bb983e5dffe95d1f92ee19a099ed214f9b3d39c4e9f8eb5991a1a3c7735b45"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.pw.toml"
+hash = "0ab0925b9d00ddcf75dc5077fba4eee2c825945a7590750e1821ba783fb26f37"
 metafile = true
 
 [[files]]

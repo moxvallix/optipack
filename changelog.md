@@ -246,3 +246,15 @@ Changelog for OptiPack
     - The ability to clip through blocks has been removed.
     - Work is going in to add server side permissions, or an OP check.
 - Zoomify was updated to version 1.7.0.
+
+## [1.3.3] 2022-6-17
+### Added
+#### The following mods have been re-added as they are now compatible with 1.19
+- LambdaBetterGrass (1.3.0): Optifine-like grass. Configurable from the mod menu.
+
+### Changed
+- DeathLog was updated to version 0.2.10.
+- Freecam:
+    - Updated to version 1.0.8-OP2.
+    - Noclip is only able to be used if the player has OP.
+- Indium was updated to version 1.0.5.

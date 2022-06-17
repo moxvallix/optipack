@@ -20,7 +20,6 @@ It is a pack that has been fine-tuned to fit our play style. I started making th
 ### Mods not yet on 1.19
 - CustomHUD
 - EBE
-- LambdaBetterGrass
 - Seamless Loading Screen
 
 ### Optimisation Mods
