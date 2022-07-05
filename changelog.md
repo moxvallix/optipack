@@ -258,3 +258,20 @@ Changelog for OptiPack
     - Updated to version 1.0.8-OP2.
     - Noclip is only able to be used if the player has OP.
 - Indium was updated to version 1.0.5.
+
+## [1.3.4] 2022-7-5
+### Added
+#### The following mods have been re-added as they are now compatible with 1.19
+- Custom Hud (2.1.0): adds a customisable hud, which can render various useful information.
+- Enhanced Block Entities (0.7.1): block entity rendering optimisation.
+
+### Changed
+- C2ME was updated to version 0.2.0.
+- Fabric API was updated to version 0.57.0.
+- Fabric Language Kotlin was updated to version 1.7.0.
+- Freecam:
+    - Updated to version 1.1.0-OP
+    - Noclip now works when opped, or in singleplayer.
+- Indium was updated to version 1.0.6.
+- Starlight was updated to version 1.1.1.
+- Zoomify was updated to version 1.7.1.

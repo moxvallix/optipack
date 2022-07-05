@@ -8,7 +8,7 @@ It is a pack that has been fine-tuned to fit our play style. I started making th
 ## Keybinds
 `c` - Zoom  
 `o` - Manage Shaders  
-`F4` - Custom HUD  
+`F4` - Custom HUD (Alternate/Better F3 Screen)  
 `Left Alt` - Pick tool  
 `Right Alt` - Toggle Freecam  
 `End` - Death Log
@@ -18,8 +18,6 @@ It is a pack that has been fine-tuned to fit our play style. I started making th
 
 ## List of Mods
 ### Mods not yet on 1.19
-- CustomHUD
-- EBE
 - Seamless Loading Screen
 
 ### Optimisation Mods
@@ -44,7 +42,7 @@ It is a pack that has been fine-tuned to fit our play style. I started making th
 [Auth Me](https://modrinth.com/mod/auth-me) -  Authenticate yourself and re-validate your session.  
 [CustomHUD](https://modrinth.com/mod/customhud) -  A highly customizable variable-based text hud.  
 [Deathlog](https://modrinth.com/mod/deathlog) -  Keeps track of the many embarrassing times you died.  
-[Freecam](https://github.com/optipack/Freecam) - A simple, standalone freecam mod for Minecraft. Patched to remove noclip.  
+[Freecam](https://github.com/optipack/Freecam) - A simple, standalone freecam mod for Minecraft. Patched to remove noclip on multiplayer servers.  
 [Iris](https://modrinth.com/mod/iris) -  A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs.  
 [Kappa](https://modrinth.com/mod/kappa) - Adds OptiFine capes to snapshots...  
 [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) -  A Minecraft mod which adds better grass and snow to the game.  

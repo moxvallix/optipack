@@ -1,11 +1,11 @@
 name = "Freecam"
-filename = "freecam-1.0.8-optipack-2.jar"
+filename = "freecam-1.1.0-optipack.jar"
 side = "client"
 
 [download]
-url = "https://github.com/optipack/Freecam/releases/download/1.0.8-mc1.19-OP2/freecam-1.0.8-optipack-2.jar"
+url = "https://github.com/optipack/Freecam/releases/download/1.1.0-mc1.19-OP/freecam-1.1.0-optipack.jar"
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
 hash-format = "sha256"
-hash = "8973bbb3b0b323e3d4a9793a08634e95df6e9fd1b63f9d32e20d5e03cabc2b6f"
+hash = "e26c9a94fdfd835728d7f93b057e69f08629635010eb4c9309a6f2f32a7467c6"
