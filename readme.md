@@ -42,7 +42,7 @@ It is a pack that has been fine-tuned to fit our play style. I started making th
 [Auth Me](https://modrinth.com/mod/auth-me) -  Authenticate yourself and re-validate your session.  
 [CustomHUD](https://modrinth.com/mod/customhud) -  A highly customizable variable-based text hud.  
 [Deathlog](https://modrinth.com/mod/deathlog) -  Keeps track of the many embarrassing times you died.  
-[Freecam](https://github.com/optipack/Freecam) - A simple, standalone freecam mod for Minecraft. Patched to remove noclip on multiplayer servers.  
+[Freecam](https://modrinth.com/mod/freecam) - A simple, standalone freecam mod for Minecraft. (Modrinth compliance edition)  
 [Iris](https://modrinth.com/mod/iris) -  A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs.  
 [Kappa](https://modrinth.com/mod/kappa) - Adds OptiFine capes to snapshots...  
 [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) -  A Minecraft mod which adds better grass and snow to the game.  

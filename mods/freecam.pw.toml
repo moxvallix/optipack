@@ -1,11 +1,13 @@
-name = "Freecam"
-filename = "freecam-1.1.0-optipack.jar"
+name = "Freecam (Modrinth Edition)"
+filename = "freecam-modrinth-1.1.1+1.19.jar"
 side = "client"
 
 [download]
-url = "https://github.com/optipack/Freecam/releases/download/1.1.0-mc1.19-OP/freecam-1.1.0-optipack.jar"
+url = "https://cdn.modrinth.com/data/XeEZ3fK2/versions/1.1.1/freecam-modrinth-1.1.1%2B1.19.jar"
+hash-format = "sha1"
+hash = "82140ebe40f06f40313bf69ad178b9461b755003"
 
-# A number of tools can generate the hash for you, including 7-zip and sha256sum
-# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
-hash-format = "sha256"
-hash = "e26c9a94fdfd835728d7f93b057e69f08629635010eb4c9309a6f2f32a7467c6"
+[update]
+[update.modrinth]
+mod-id = "XeEZ3fK2"
+version = "BwFm6uT7"

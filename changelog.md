@@ -275,3 +275,9 @@ Changelog for OptiPack
 - Indium was updated to version 1.0.6.
 - Starlight was updated to version 1.1.1.
 - Zoomify was updated to version 1.7.1.
+
+## [1.3.5] 2022-7-6
+### Changed
+- Freecam:
+    - Updated to version 1.1.1.
+    - No longer uses my fork, as there is now a modrinth version available.
