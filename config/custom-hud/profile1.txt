@@ -4,7 +4,8 @@
 &2Facing: &a{facing} &e({facing_towards_pn_sign}{facing_towards_xz})
 &2Biome: &a{biome} &7&o({dimension}) {{slime_chunk,"&bSlime"}}
 
-&6Time: &e{hour24}:{minute}&6, Day: &e{day}
+&e{real_time:H:m} &6{real_time:z}
+&e{hour24}:{minute} &6MCT, Day: &e{day}
 &6D: &e{local_difficulty} &6// &e{clamped_local_difficulty}
 &6E: &e{entities_rendered} &6P: &e{particles}
 &6Light: {{light=0, "&c", "&e"}}{light}
@@ -13,7 +14,7 @@
 Mem: &e{memory_used_percentage}%&f of &e{memory_total}
 CPU Usage: &e{cpu}%
 Packets: &e{tx} {rx}
-{{tps, "TPS: &e{tps}", ""Ping: &e{ping}"}}
+{{tps, "TPS: &e{tps}", "Ping: &e{ping}"}}
 
 {{target_block|target_fluid|target_entity, "&nTargets"}}
 {{target_block, "&e{target_block} &f| &c{tbx}, &a{tby}, &b{tbz}&f [Block]"}}

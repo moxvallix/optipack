@@ -281,3 +281,18 @@ Changelog for OptiPack
 - Freecam:
     - Updated to version 1.1.1.
     - No longer uses my fork, as there is now a modrinth version available.
+
+## [1.3.6] 2022-8-1
+### Changed
+- CustomHud: F4 overlay now shows real time.
+- Auth Me was updated to version 4.1.0.
+- Cull Less Leaves was updated to version 1.0.4.
+- Fabric API was updated to version 0.58.0.
+- Fabric Language Kotlin was updated to version 0.58.0.
+- Freecam was updated to version 1.1.4.
+- Iris was updated to version 1.2.6.
+- Lithium was updated to version 0.8.1.
+- Mod Menu was updated to version 4.0.4.
+- Pick Block Pro was updated to version 1.6.12.
+- Reese's Sodium Options was updated to version 1.4.4.
+- Sodium Extra was updated to version 0.4.6.

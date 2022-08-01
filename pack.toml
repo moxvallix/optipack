@@ -1,12 +1,12 @@
 name = "OptiPack"
 author = "Moxvallix"
-version = "1.3.5"
+version = "1.3.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1ba7795fa1d26b0d80dd5f4eb349120cf48d34c114b6077efe9e3d48c0217638"
+hash = "d4a9d2e162b79ee402312f8a291335769a1351d276ddd6d119c3b9c58df2a00a"
 
 [versions]
 fabric = "0.14.8"
