@@ -17,6 +17,10 @@ file = "config/custom-hud/profile3.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "config/feytweaks.json"
+hash = "dd337ed79ab7be3488d8df7306a8589db842570e0af72400b77d07a0216e462e"
+
+[[files]]
 file = "config/freecam.json5"
 hash = "c4f3d0658537975ce13371f58666031c9e4afa3503d6a0e496694bc834e85d9b"
 
