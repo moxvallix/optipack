@@ -296,3 +296,15 @@ Changelog for OptiPack
 - Pick Block Pro was updated to version 1.6.12.
 - Reese's Sodium Options was updated to version 1.4.4.
 - Sodium Extra was updated to version 0.4.6.
+
+## [1.3.7] 2022-8-7
+### Added
+- Entity Collision FPS Fix (2.0.0): Client Side mod that optimizes entities on the render thread.
+- FeyTweaks (1.2.3): Mod for optimizing signs and beacons.
+
+### Changed
+- Continuity was updated to version 2.0.1.
+- Indium was updated to version 1.0.7.
+
+### Removed
+- EntityCulling: removed due to licensing concerns.

@@ -6,7 +6,7 @@ hash = "8f64f19131bd4883a9e2ccbb1bad130375558feb628265a29238a4150b0d845a"
 
 [[files]]
 file = "config/custom-hud/profile1.txt"
-hash = "c7068b24b94de59c9334e24487d4d7a09d37146fc3658f5a79d4e99c2346c430"
+hash = "a6959c2e056a5c3e99e9cf7637d8223364cce53ccb9f7eb8f38f7b07b0542daa"
 
 [[files]]
 file = "config/custom-hud/profile2.txt"
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "749bf88d67ff9ddf272dc48d82402dd61ea2812238dfca4feb1fd78440675456"
+hash = "3648ed55ffae5bc153c16b2d414925cc30165b5171aa0e2a146e5ba22366fcf1"
 metafile = true
 
 [[files]]
@@ -81,8 +81,8 @@ hash = "855e5f89a1c2d225f10927dd9bdd06aaffbc0c59b6d2c525460db6f1c9742ad5"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
+file = "mods/entity-collision-fps-fix.pw.toml"
+hash = "d614e471929c4906f85ba776600e0cfa9b0d958ce55121efd49c9ffd4ff00a04"
 metafile = true
 
 [[files]]
@@ -96,13 +96,18 @@ hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
 metafile = true
 
 [[files]]
+file = "mods/feytweaks.pw.toml"
+hash = "ae6ada392c1ea3cd77cb93c0e7e7ae6683c1e2bd7773a6ba4eb48cd5f056251b"
+metafile = true
+
+[[files]]
 file = "mods/freecam.pw.toml"
 hash = "2923f202132e2e3eb07c1b06a60b2c8eb46daaefeba53d6f962700c1456263ff"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "b5ecdce430ae016b791f415ef55f6740dcfd422cdb24c2ea78e4ec677cc7921e"
+hash = "eefcd81493fa26fa8135cf85495cbfb52127aa43667c5a4faea27d16d7bb2191"
 metafile = true
 
 [[files]]

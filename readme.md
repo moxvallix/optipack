@@ -26,7 +26,8 @@ It is a pack that has been fine-tuned to fit our play style. I started making th
 [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves) -  Cull leaves while looking hot!  
 [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) -  Improve performance when Minecraft is in the background.  
 [EBE](https://modrinth.com/mod/ebe) -  Reduce FPS lag with block entities, as well as customize them with resource packs.  
-[EntityCulling](https://modrinth.com/mod/entityculling) -  Using async path-tracing to hide Block-/Entities that are not visible.  
+[Entity Collision FPS Fix](https://modrinth.com/mod/entity-collision-fps-fix) -  Client Side mod that optimizes entities on the render thread.  
+[FeyTweaks](https://modrinth.com/mod/feytweaks) - Mod for optimizing signs and beacons.  
 [Krypton](https://modrinth.com/mod/krypton) -  A mod to optimize the Minecraft networking stack.  
 [LazyDFU](https://modrinth.com/mod/lazydfu) -  Makes the game boot faster by deferring non-essential initialization.  
 [Lithium](https://modrinth.com/mod/lithium) -  No-compromises game logic/server optimization mod.  
