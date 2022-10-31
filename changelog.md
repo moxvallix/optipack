@@ -308,3 +308,30 @@ Changelog for OptiPack
 
 ### Removed
 - EntityCulling: removed due to licensing concerns.
+
+## [1.3.8] 2022-10-31
+### Added
+- MidnightControls (1.7.1): Adds controller support and enhanced controls overall.
+- No Chat Reports (1.13.11): Makes chat unreportable (where possible).
+- Quickcraft (1.2.5): Craft recipes even faster!
+- YetAnotherConfigLib(1.6.0): A builder-based configuration library for Minecraft.
+
+### Changed
+- Minecraft 1.19.2 is required.
+- Fabric 0.14.10 is used.
+- Auth Me was updated to version 4.2.0,
+- C2ME was updated to version 0.2.0.
+- DeathLog was updated to version 0.2.11.
+- EBE was updated to version 0.7.2.
+- Fabric API was updated to version 0.58.0.
+- Fabric Language Kotlin was updated to version 1.8.5.
+- Freecam was updated to version 1.1.6.
+- Indium was updated to version 1.0.9.
+- Iris was updated to version 1.4.0.
+- Krypton was updated to version 0.2.1.
+- Lithium was updated to version 0.10.1.
+- Mod Menu was updated to version 4.0.6.
+- Reese's Sodium Options was updated to version 1.4.7.
+- Sodium Extra was updated to version 0.4.11.
+- Sodium was updated to version 0.4.4.
+- Zoomify was updated to version 2.8.0.

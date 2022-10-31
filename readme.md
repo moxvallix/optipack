@@ -48,8 +48,11 @@ It is a pack that has been fine-tuned to fit our play style. I started making th
 [Kappa](https://modrinth.com/mod/kappa) - Adds OptiFine capes to snapshots...  
 [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) -  A Minecraft mod which adds better grass and snow to the game.  
 [LambDynLights](https://modrinth.com/mod/lambdynamiclights) -  A dynamic lights mod for Fabric.  
+[MidnightControls](https://modrinth.com/mod/midnightcontrols) -  Adds controller support and enhanced controls overall.  
 [ModMenu](https://modrinth.com/mod/modmenu) -  Adds a mod menu to view the list of mods you have installed.  
+[No Chat Reports](https://modrinth.com/mod/no-chat-reports) - Makes chat unreportable (where possible).  
 [Pick Block Pro](https://modrinth.com/mod/pick-block-pro) -  An advanced client side Block, Entity, NBT, Tool and ID picker (Fabric).  
+[Quickcraft](https://modrinth.com/mod/quickcraft) - Craft recipes even faster!.  
 [Seamless Loading Screen](https://modrinth.com/mod/seamless-loading-screen) -  Takes a screenshot of the game when you leave a world or server, and displays it when you rejoin it.  
 [Tooltip Tweaks](https://modrinth.com/mod/tooltiptweaks) -  New, improved, and configurable tooltips.  
 [Zoomify](https://modrinth.com/mod/zoomify) -  A zoom mod with infinite customizability.
@@ -57,6 +60,7 @@ It is a pack that has been fine-tuned to fit our play style. I started making th
 ### Library Mods
 [Fabric API](https://modrinth.com/mod/fabric-api) -  Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain.  
 [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) - Enables usage of the Kotlin programming language for Fabric mods.
+[YetAnotherConfigLib](https://modrinth.com/mod/yacl) -  A builder-based configuration library for Minecraft. 
 
 ## License
 I am not very sure how a modpack is meant to be licensed. I didn't make any of these mods, but I guess my particular configuration can be licensed? IDK. Each mod has it's own license, which can be found with the provided links above. As for my particular configuration, saved in this modpack, I just went with unlicense.

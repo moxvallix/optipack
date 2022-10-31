@@ -4,7 +4,7 @@
 &2Facing: &a{facing} &e({facing_towards_pn_sign}{facing_towards_xz})
 &2Biome: &a{biome} &7&o({dimension}) {{slime_chunk,"&bSlime"}}
 
-&e{real_time:H:m} &6{real_time:z}
+&e{real_time:HH:mm} &6{real_time:z}
 &e{hour24}:{minute} &6MCT, Day: &e{day}
 &6D: &e{local_difficulty} &6// &e{clamped_local_difficulty}
 &6E: &e{entities_rendered} &6P: &e{particles}
