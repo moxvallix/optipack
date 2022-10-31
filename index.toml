@@ -34,7 +34,7 @@ hash = "67eb2944d4ccc05c4c3eab91a87a5013cc1478b55b3637fe9608ea73d79d0046"
 
 [[files]]
 file = "config/zoomify.json"
-hash = "9d98289c6aa78b1e5ece94b4f34dab59f546bc3b64b939326f66a8a83cb7a7ee"
+hash = "ad1eaa2d9c0c5802836ed851f1f86bf6c0947fd554ad156a3911a166b9ce79cf"
 
 [[files]]
 file = "hotbar.nbt"
