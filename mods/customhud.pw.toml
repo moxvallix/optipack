@@ -1,13 +1,7 @@
-name = "CustomHud"
-filename = "custom_hud-2.1.0+1.19.jar"
-side = "client"
+name = "customhud"
+filename = "custom_hud-3.0.1+1.19.4.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/6jis0UTI/versions/v2.1.0+1.19/custom_hud-2.1.0%2B1.19.jar"
+url = "https://github.com/optipack/ported-mods/releases/download/v1.3.9/custom_hud-3.0.1+1.19.4.jar"
 hash-format = "sha1"
-hash = "cf0cd01b940c027a377394676a5619c8860a194a"
-
-[update]
-[update.modrinth]
-mod-id = "6jis0UTI"
-version = "War7lAYl"
+hash = "82d35300f8b1d331f127bb6831f2e1dcd50d009e"
