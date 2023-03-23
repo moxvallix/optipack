@@ -382,3 +382,8 @@ Changelog for OptiPack
 - Enhanced Block Entities.
 - FeyTweaks.
 - LambDynamicLights.
+
+## [1.3.10] 2023-3-24
+### Changed
+- NoChatReports was updated to v2.1.1.
+  - This fixes a critical issue where it's UI would steal focus from the chat input.
