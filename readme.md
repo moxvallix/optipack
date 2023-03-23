@@ -59,7 +59,7 @@ It is a pack that has been fine-tuned to fit our play style. I started making th
 
 ### Library Mods
 [Fabric API](https://modrinth.com/mod/fabric-api) -  Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain.  
-[Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) - Enables usage of the Kotlin programming language for Fabric mods.
+[Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) - Enables usage of the Kotlin programming language for Fabric mods.  
 [YetAnotherConfigLib](https://modrinth.com/mod/yacl) -  A builder-based configuration library for Minecraft. 
 
 ## License

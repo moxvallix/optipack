@@ -335,3 +335,14 @@ Changelog for OptiPack
 - Sodium Extra was updated to version 0.4.11.
 - Sodium was updated to version 0.4.4.
 - Zoomify was updated to version 2.8.0.
+
+## [Unreleased]
+### Added
+- Adaptive Tooltips (1.1.0): Highly configurable tooltip rendering, so you can always read them!
+
+### Removed
+- Entity Collision FPS Fix was removed, as it is no longer needed for 1.19.3
+- LambdaBetterGrass was removed, as it has switched to using Quilt.
+    - Decided not to switch the modloader in a patch release of the modpack.
+    - As it seems Quilt is cross-compatible with Fabric, OptiPack v0.4.x might switch to it.
+- Quickcraft was removed, as it seemed to cause a crash with 1.19.3.

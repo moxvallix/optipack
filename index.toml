@@ -85,11 +85,6 @@ hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
 metafile = true
 
 [[files]]
-file = "mods/entity-collision-fps-fix.pw.toml"
-hash = "d614e471929c4906f85ba776600e0cfa9b0d958ce55121efd49c9ffd4ff00a04"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "1abae29ea8e25ff332f6dc40f6fb680cdf319896969155b3af5022cb344f257f"
 metafile = true
