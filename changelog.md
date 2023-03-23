@@ -336,13 +336,49 @@ Changelog for OptiPack
 - Sodium was updated to version 0.4.4.
 - Zoomify was updated to version 2.8.0.
 
-## [Unreleased]
+## [1.3.9] 2023-3-24
 ### Added
 - Adaptive Tooltips (1.1.0): Highly configurable tooltip rendering, so you can always read them!
+- Peek (1.0.5): Additional information in item tooltips.
+- OwO Lib (0.10.3): A general utility, GUI and config library for modding on Fabric and Quilt.
+
+### Changed
+- Minecraft 1.19.4 is required.
+- Fabric 0.14.18 is used.
+- Auth Me was updated to version 5.0.0.
+- C2ME was updated to version 0.2.0.alpha.10.
+- Continuity was updated to version 3.0.0-beta.2. *
+- Cull Less Leaves was updated to version 1.1.0.
+- CustomHud was updated to version 3.0.1. *
+- DeathLog was updated to version 0.3.1.
+- Fabric API was updated to version 0.76.0.
+- Fabric Language Kotlin was updated to version 1.9.2.
+- Freecam was updated to version 1.1.9.
+- Indium was updated to version 1.0.15.
+- Iris was updated to version 1.5.2.
+- Kappa was updated to version 3.0.4.
+- Krypton was updated to version 0.2.2.
+- Lithium was updated to version 0.11.1.
+- MidnightControls was updated to version 1.8.0.
+- Mod Menu was updated to version 6.1.0-rc.4.
+- NoChatReports was updated to version 2.1.0.
+- Pick Block Pro was updated to version 1.6.18.
+- Reese's Sodium Options was updated to version 1.5.0.
+- Sodium Extra was updated to version 0.4.18.
+- Sodium was updated to version 0.4.10.
+- YetAnotherConfigLib was updated to version 2.3.0.
+- Zoomify was updated to version 2.9.2.
+
+\* Jar hosted at https://github.com/optipack/ported-mods releases.
 
 ### Removed
-- Entity Collision FPS Fix was removed, as it is no longer needed for 1.19.3
+- Entity Collision FPS Fix was removed, as it is no longer needed for 1.19.3+.
+- LazyDFU was removed, as it is no longer needed for 1.19.4+.
 - LambdaBetterGrass was removed, as it has switched to using Quilt.
     - Decided not to switch the modloader in a patch release of the modpack.
     - As it seems Quilt is cross-compatible with Fabric, OptiPack v0.4.x might switch to it.
-- Quickcraft was removed, as it seemed to cause a crash with 1.19.3.
+- Tooltip Tweaks was removed, as it was replaced by Peek.
+#### The following mods have been temporarily removed, as they do not currently support 1.19.4
+- Enhanced Block Entities.
+- FeyTweaks.
+- LambDynamicLights.

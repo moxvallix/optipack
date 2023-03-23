@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/custom-hud/config.json"
-hash = "6bc76075632bdf063ed5cbcf468a6b3d14b41f34b689eceb363cc48584689468"
+hash = "8f64f19131bd4883a9e2ccbb1bad130375558feb628265a29238a4150b0d845a"
 
 [[files]]
 file = "config/custom-hud/profile1.txt"
@@ -27,6 +27,10 @@ hash = "c4f3d0658537975ce13371f58666031c9e4afa3503d6a0e496694bc834e85d9b"
 [[files]]
 file = "config/lambdabettergrass.toml"
 hash = "71f8657fa67d9b11264366d2e8726098d6d86887e63f14e2cbce82532a2f84be"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "e956708f65a5e58b3011fe94d04f2eb8ff1d13dd4e06e0c90de4aa8818696c87"
 
 [[files]]
 file = "config/tooltiptweaks.json"
