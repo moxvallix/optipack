@@ -41,8 +41,7 @@ Make sure to enable the Resource Pack `Default Connected Textures` to see connec
   - [Indium](https://modrinth.com/mod/indium): Sodium addon providing support for the Fabric Rendering API, based on Indigo.
   - [Reeses Options](https://modrinth.com/mod/reeses-sodium-options): Alternative Options Menu for Sodium.
   - [Sodium Extra](https://modrinth.com/mod/sodium-extra): Features that shouldn't be in Sodium.
-
-[Starlight](https://modrinth.com/mod/starlight): Rewrites the light engine to fix lighting performance and lighting errors.
+- [Starlight](https://modrinth.com/mod/starlight): Rewrites the light engine to fix lighting performance and lighting errors.
 
 ### Quality of Life Mods
 - [Adaptive Tooltips](https://modrinth.com/mod/adaptive-tooltips): Highly configurable tooltip rendering, so you can always read them!
