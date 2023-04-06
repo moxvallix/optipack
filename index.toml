@@ -49,6 +49,11 @@ file = "icon.png"
 hash = "f0455e39c26681c73439a83f576e1eb665ce646b7d40adcf95542ea191583001"
 
 [[files]]
+file = "mods/adaptive-tooltips.pw.toml"
+hash = "a69d6b7d3b9d22e17485e4b3c3bc462724657ba1cc41a8433019c54c59be346c"
+metafile = true
+
+[[files]]
 file = "mods/auth-me.pw.toml"
 hash = "f0eac2832b0c04d4994683decf8bd1a4cf69fd3b12b5a735bf0138c5b59799b5"
 metafile = true
@@ -190,4 +195,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "e9dc1dc8db55f520a0c963626fc5a5ae279267ec88a2b332df785ddbdf947c4b"
+hash = "25208307d21d7c14adc4174ad124902aa3684552ae18efb6997cf2f21c3200aa"

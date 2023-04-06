@@ -385,5 +385,12 @@ Changelog for OptiPack
 
 ## [1.3.10] 2023-3-24
 ### Changed
-- NoChatReports was updated to v2.1.1.
+- NoChatReports was updated to version 2.1.1.
   - This fixes a critical issue where it's UI would steal focus from the chat input.
+
+## [1.3.11] 2023-4-6
+### Changed
+- Adaptive Tooltips was updated to version 1.2.0.
+- Operator Items tab is now on by default.
+### Fixed
+- Adaptive Tooltips actually added, as it was accidentally left out of the pack.
