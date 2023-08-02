@@ -394,3 +394,44 @@ Changelog for OptiPack
 - Operator Items tab is now on by default.
 ### Fixed
 - Adaptive Tooltips actually added, as it was accidentally left out of the pack.
+
+## [1.4.0] 2023-8-2
+### Added
+- Tooltip Fix (1.1.1): Fixes Tooltips from runnning off the screen. Replaces Adaptive Tooltips.
+#### The following mods have been re-added, as they have been updated.
+- Enhanced Block Entities (0.9)
+- FeyTweaks (1.2.7)
+- LambDynamicLights (2.3.1)
+
+### Changed
+- Minecraft 1.20.1 is required.
+- Fabric 0.14.21 is used.
+- Auth Me was updated to version 7.0.2.
+- C2ME was updated to version 0.2.0.
+- Continuity was updated to version 3.0.0.
+- Cull Less Leaves was updated to version 1.2.0.
+- CustomHUD was updated to version 3.1.0.
+- DeathLog was updated to version 0.3.2.
+- DynamicFPS was updated to version 2.4.0.
+- Fabric API was updated to version 0.86.1.
+- Fabric Language Kotlin was updated to version 1.9.0.
+- Freecam was updated to version 1.2.1.
+- Indium was updated to version 1.0.21.
+- Iris was updated to version 1.6.4.
+- Krypton was updated to version 0.2.3.
+- Lithium was updated to version 0.11.2.
+- Midnight Controls was updated to version 1.8.2.
+- Mod Menu was updated to version 7.2.1.
+- NoChatReports was updated to version 2.2.2.
+- OwO Lib was updated to version 0.11.1.
+- Peek was updated to version 1.1.7.
+- Pick Block Pro was updated to version 1.7.20.
+- Reese's Sodium Options was updated to version 1.6.3.
+- Sodium Extra was updated to version 0.4.25.
+- Sodium was updated to version 0.4.10.
+- Starlight was updated to version 1.1.2.
+- YetAnotherConfigLib was updated to version 3.1.0.
+- Zoomify was updated to version 2.11.0.
+
+### Removed
+- Adaptive Tooltips: Replaced by Tooltip Fix.
