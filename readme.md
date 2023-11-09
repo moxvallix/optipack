@@ -22,11 +22,8 @@ It is a pack that has been fine-tuned to fit our play style. I started making th
 Make sure to enable the Resource Pack `Default Connected Textures` to see connected textures.
 
 ## List of Mods
-### Mods not yet on 1.19.4
-- Seamless Loading Screen
+### Mods not yet on 1.20.2
 - Enhanced Block Entities (EBE)
-- FeyTweaks
-- LambDynamicLights
 
 ### Optimisation Mods
 - [C2ME](https://modrinth.com/mod/c2me-fabric): A Fabric mod designed to improve the chunk performance of Minecraft.
@@ -44,13 +41,12 @@ Make sure to enable the Resource Pack `Default Connected Textures` to see connec
 - [Starlight](https://modrinth.com/mod/starlight): Rewrites the light engine to fix lighting performance and lighting errors.
 
 ### Quality of Life Mods
-- [Adaptive Tooltips](https://modrinth.com/mod/adaptive-tooltips): Highly configurable tooltip rendering, so you can always read them!
 - [Auth Me](https://modrinth.com/mod/auth-me): Authenticate yourself and re-validate your session.
+- [Capes](https://modrinth.com/mod/capes): Lets you use capes from OptiFine, LabyMod and other cape mods.
 - [CustomHUD](https://modrinth.com/mod/customhud): A highly customizable variable-based text hud.
 - [Deathlog](https://modrinth.com/mod/deathlog): Keeps track of the many embarrassing times you died.
 - [Freecam](https://modrinth.com/mod/freecam): A simple, standalone freecam mod for Minecraft. (Modrinth compliance edition)
 - [Iris](https://modrinth.com/mod/iris): A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs.
-- [Kappa](https://modrinth.com/mod/kappa): Adds OptiFine capes to snapshots...
 - [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass): A Minecraft mod which adds better grass and snow to the game.
 - [LambDynLights](https://modrinth.com/mod/lambdynamiclights): A dynamic lights mod for Fabric.
 - [MidnightControls](https://modrinth.com/mod/midnightcontrols): Adds controller support and enhanced controls overall.
@@ -59,7 +55,7 @@ Make sure to enable the Resource Pack `Default Connected Textures` to see connec
 - [Peek](https://modrinth.com/mod/peek): Additional information in item tooltips
 - [Pick Block Pro](https://modrinth.com/mod/pick-block-pro): An advanced client side Block, Entity, NBT, Tool and ID picker (Fabric).
 - [Quickcraft](https://modrinth.com/mod/quickcraft): Craft recipes even faster!.
-- [Seamless Loading Screen](https://modrinth.com/mod/seamless-loading-screen): Takes a screenshot of the game when you leave a world or server, and displays it when you rejoin it.
+- [Tooltip Fix](https://modrinth.com/mod/tooltipfix): Fixes Tooltips from runnning off the screen.
 - [Zoomify](https://modrinth.com/mod/zoomify): A zoom mod with infinite customizability.
 
 ### Library Mods

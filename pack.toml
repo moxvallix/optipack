@@ -1,16 +1,16 @@
 name = "OptiPack"
 author = "Moxvallix"
-version = "1.4.0"
+version = "1.4.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ec3ec9349a74add06ca3d509595507d108e6a77be2f17824cb5a8bec1ab5c521"
+hash = "f6994e5b043de9889baec628cbfd7602688a2f2465deaa0f147cf2668ce9d177"
 
 [versions]
-fabric = "0.14.21"
-minecraft = "1.20.1"
+fabric = "0.14.24"
+minecraft = "1.20.2"
 
 [options]
-acceptable-game-versions = ["1.20", "1.20.1"]
+acceptable-game-versions = ["1.20.1", "1.20.2"]

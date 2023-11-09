@@ -435,3 +435,45 @@ Changelog for OptiPack
 
 ### Removed
 - Adaptive Tooltips: Replaced by Tooltip Fix.
+
+## [1.4.1] - 2023-11-9
+### Added
+- Capes (1.5.3): Lets you use capes from OptiFine, LabyMod and other cape mods.
+    - Replacement for Kappa.
+
+### Changed
+- Minecraft 1.20.2 is required.
+- Fabric 0.14.24 is used.
+- Auth Me was updated to version 8.0.0.
+- C2ME was updated for 1.20.2.
+- Continuity was updated for 1.20.2.
+- Cull Less Leaves was updated to version 1.3.0.
+- CustomHUD was updated to version 3.3.0.
+- DynamicFPS was updated to version 3.2.1.
+- DeathLog was updated for 1.20.2.
+- Fabric API was updated to version 0.90.7.
+- Fabric Language Kotlin was updated to version 1.10.13.
+- FeyTweaks was updated to version 1.2.8.
+- Freecam was updated for 1.20.2.
+- Indium was updated to version 1.0.27.
+- Iris Shaders was updated to version 1.6.10.
+- Krypton was updated to version 0.2.4.
+- LambDynamicLights was updated to version 2.3.2.
+- Lithium was updated to version 0.12.0.
+- MidnightControls was updated to version 1.9.0.
+- Mod Menu was updated to version 8.0.0.
+- NoChatReports was updated to version 2.3.1.
+- OwO Lib was updated to version 0.11.3.
+- Peek was updated to version 1.1.10.
+- Reese's Sodium Options was updated to version 1.7.0.
+- Sodium Extra was updated to version 0.5.3.
+- Sodium was updated to version 0.5.3.
+- Starlight was updated to version 1.1.3.
+- YetAnotherConfigLib was updated to version 3.3.0.
+- Zoomify was updated to version 2.12.0.
+
+### Removed
+- Kappa was removed, as the developer will no longer update it.
+    - It has been replaced with Capes, which supports more cape services.
+#### The following mods have been temporarily removed, as they do not currently support 1.20.2
+- Enhanced Block Entities
