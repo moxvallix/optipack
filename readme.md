@@ -22,7 +22,7 @@ It is a pack that has been fine-tuned to fit our play style. I started making th
 Make sure to enable the Resource Pack `Default Connected Textures` to see connected textures.
 
 ## List of Mods
-### Mods not yet on 1.20.2
+### Mods not yet on 1.20.4
 - Enhanced Block Entities (EBE)
 
 ### Optimisation Mods

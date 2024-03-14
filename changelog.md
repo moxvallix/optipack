@@ -477,3 +477,33 @@ Changelog for OptiPack
     - It has been replaced with Capes, which supports more cape services.
 #### The following mods have been temporarily removed, as they do not currently support 1.20.2
 - Enhanced Block Entities
+
+## [1.4.2] - 2024-3-14
+### Changed
+- Minecraft 1.20.4 is required.
+- Fabric 0.15.7 is used.
+- Auth Me was updated for version 1.20.4.
+- C2ME was updated for version 1.20.4.
+- CustomHUD was updated for version 1.20.4.
+- DeathLog was updated for version 1.20.3.
+- DynamicFPS was updated to version 3.4.2.
+- Fabric API was updated to version 0.96.4.
+- Fabric Language Kotlin was updated to version 1.10.19.
+- Freecam was updated to version 1.2.3.
+- Indium was updated to version 1.0.30.
+- Iris Shaders was updated to version 1.6.17.
+- Krypton was updated to version 0.2.6.
+- LambDynamicLights was updated to version 2.3.4.
+- Lithium was updated to version 0.12.1.
+- MidnightControls was updated to version 1.9.4.
+- Mod Menu was updated to version 9.0.0.
+- No Chat Reports was updated to version 2.5.0.
+- OwO Lib was updated to version 0.12.5.
+- Peek was updated to version 1.3.1.
+- Pick Block Pro was updated to version 1.8.27.
+- Reese's Sodium Options was updated to version 1.7.2.
+- Sodium Extra was updated to version 0.5.4.
+- Sodium was updated to version 0.5.8.
+- Starlight was updated for 1.20.4.
+- YetAnotherConfigLib was updated to version 3.3.2.
+- Zoomify was updated to version 2.13.0.
