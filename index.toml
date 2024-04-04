@@ -58,6 +58,11 @@ hash = "d8c4f0d87acda52c94a6f341cd98db22804e934b322eda4470089e3a511e8070"
 metafile = true
 
 [[files]]
+file = "mods/bactromod.pw.toml"
+hash = "5a23402da905a809db1c88722fea21f72cc89a9167b32d5749d8721cb0c00f73"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "9fb071407761cdb22323713a3f24ca27f04bb67c0ea455ee2e73778c6ecece75"
 metafile = true
@@ -65,6 +70,11 @@ metafile = true
 [[files]]
 file = "mods/capes.pw.toml"
 hash = "617563db0d44229fb65eb660130d02d1a4d2f29233eda03b68d3273e700326f8"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
 metafile = true
 
 [[files]]
@@ -150,6 +160,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "a045df0a5d03ef89d92ca9318aa42a5a5e7617b37dd38d32b0a7058c0f6f4ef7"
+metafile = true
+
+[[files]]
+file = "mods/offershud.pw.toml"
+hash = "5dacbf9191b100def17e4440775056ab17f6f60917f4803d406dc0c0b5d6091d"
 metafile = true
 
 [[files]]

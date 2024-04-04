@@ -24,3 +24,5 @@ Packets: &e{tx} {rx}
 {{item|oitem, "&nItems in Hands"}}
 {{item, "&e{item} {{item_has_dur,'(&a{item_dur}&e/&a{item_max_dur}&e) '}}&f[Main]"}}
 {{oitem, "&e{oitem} {{oitem_has_dur,'(&a{oitem_dur}&e/&a{oitem_max_dur}) '}}&f[Off]"}}
+
+{{item:chest:id = "minecraft:elytra", "&eElytra (&a{item:chest:durability}&e/&a{item:chest:max_dur}&e) &f[Chest]", ""}}

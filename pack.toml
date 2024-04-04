@@ -1,15 +1,15 @@
 name = "OptiPack"
 author = "Moxvallix"
-version = "1.4.2"
+version = "1.4.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "78ed520d015d3bff54feab7b2b495cdba3847f80d9296f6883170d927aa0dcd3"
+hash = "a02035d8274e70c49abf46646eaf9dd836071d36bca36e54111bc3115c4f679b"
 
 [versions]
-fabric = "0.15.7"
+fabric = "0.15.9"
 minecraft = "1.20.4"
 
 [options]

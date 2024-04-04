@@ -12,5 +12,5 @@
   "hideBeam": false,
   "beamDistance": 15.0,
   "beaconCulling": true,
-  "optimizeBeam": true
+  "optimizeBeam": false
 }
