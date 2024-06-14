@@ -1,13 +1,13 @@
 name = "FeyTweaks"
-filename = "feytweaks-1.20.2-1.2.8.jar"
+filename = "FeyTweaks-1.20.6-1.2.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Wa72oW2W/versions/IGnWnbNs/feytweaks-1.20.2-1.2.8.jar"
+url = "https://cdn.modrinth.com/data/Wa72oW2W/versions/NlEThsvA/FeyTweaks-1.20.6-1.2.8.jar"
 hash-format = "sha1"
-hash = "6fa2e7a49c558e27170b5c762d902a45c1d1891a"
+hash = "5a9029a33100fa84e67672a07ebdf26693706f33"
 
 [update]
 [update.modrinth]
 mod-id = "Wa72oW2W"
-version = "IGnWnbNs"
+version = "NlEThsvA"

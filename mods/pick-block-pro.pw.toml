@@ -1,13 +1,13 @@
 name = "Pick Block Pro"
-filename = "Pick-Block-Pro-1.8.27-mc1.20.4.jar"
+filename = "Pick-Block-Pro-1.9.29-mc1.20.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/6kI7U1sT/versions/a7940DDK/Pick-Block-Pro-1.8.27-mc1.20.4.jar"
+url = "https://cdn.modrinth.com/data/6kI7U1sT/versions/pxO0KdPL/Pick-Block-Pro-1.9.29-mc1.20.6.jar"
 hash-format = "sha1"
-hash = "37ca2a46f30b5710ce8560e7a573543a04fb8077"
+hash = "ef267d00fe228d03da2f4453f9c70c701dbcf130"
 
 [update]
 [update.modrinth]
 mod-id = "6kI7U1sT"
-version = "a7940DDK"
+version = "pxO0KdPL"

@@ -3,19 +3,59 @@ Changelog for OptiPack
 
 ## [1.4.3] - 2024-04-04
 ### Added
-- BactroMod (2.0.0): Visual optimizations for a better ingame experience.
-- OffersHUD (1.3.2): Display a list of villager's trading offers as a HUD.
+- BactroMod (0.2.2): Visual optimizations for a better ingame experience.
+- Block Meter (1.13.1): A mod to measure block distances.
+- Build Guide (0.4.1): A client-side only mod to project shapes like circles and spheres into the world.
+- Cloth Config API (14.0.126): Configuration Library for Minecraft Mods (Required by OffersHUD).
+- OffersHUD (1.5.0): Display a list of villager's trading offers as a HUD.
+- SpruceUI (5.0.3): GUI library mod (Optional for LambDynamicLights).
 
 ### Changed
 - Changelog updated
     - Re-ordered to newest first.
     - Date formatting improved.
-- Fabric 0.15.9 is used.
+- Keybinds
+    - Tool Picker now uses Backtick.
+    - Block Meter now has Left Alt.
 - CustomHUD (F4) now shows Elytra durability.
 - FeyTweaks has been configured to allow beacon animation.
 - Freecam config file updated for new format.
+- Minecraft 1.20.6 is required.
+- Fabric 0.15.11 is used.
+- Auth Me was updated for 1.20.6.
+- BactroMod was updated to version 2.2.0
+- C2ME was updated for 1.20.6.
+- Capes was updated to version 1.5.4.
+- Continuity was updated for 1.20.6.
+- CustomHUD was updated to version 3.4.2.
+- Dynamic FPS was updated to version 3.4.3.
+- Fabric API was updated to version 0.100.0
+- Fabric Language Kotlin was updated to version 1.11.0.
+- FeyTweaks was updated for 1.20.6.
+- Freecam was updated to version 1.2.4.
+- Indium was updated to version 1.0.31.
+- Iris Shaders was updated to version 1.7.0.
+- Krypton was updated to version 0.2.7.
+- LambDynamicLights was updated to version 2.3.4.
+- Lithium was updated to version 0.12.3.
+- MidnightControls was updated to version 1.9.5.
+- Mod Menu was updated to version 10.0.0.
+- No Chat Reports was updated to version 2.7.0.
+- OwO Lib was updated to version 0.12.9.
+- Peek was updated to version 1.3.2.
+- Pick Block Pro was updated to version 1.9.29.
+- Reese's Sodium Options was updated for 1.20.6.
+- Sodium Extra was updated to version 0.5.5.
+- Sodium was updated for 1.20.6.
+- YetAnotherConfigLib was updated to version 3.5.0.
+- Zoomify was updated to version 2.13.5.
 
-## [1.4.2] - 2024-03-14
+### Removed
+- Starlight has been archived, and as such is no longer receiving updates.
+#### The following mods have been temporarily removed, as they do not currently support 1.20.6
+- DeathLog.
+
+## [1.4.2] - 2024-3-14
 ### Changed
 - Minecraft 1.20.4 is required.
 - Fabric 0.15.7 is used.

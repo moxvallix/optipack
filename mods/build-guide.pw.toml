@@ -1,0 +1,13 @@
+name = "Build Guide"
+filename = "BuildGuide-1.20.6-0.4.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XwBDibES/versions/GnYV2oKR/BuildGuide-1.20.6-0.4.1.jar"
+hash-format = "sha1"
+hash = "a3b72d7b36deb0c2c0983f3bc532540c7cac2446"
+
+[update]
+[update.modrinth]
+mod-id = "XwBDibES"
+version = "GnYV2oKR"

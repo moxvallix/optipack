@@ -1,13 +1,13 @@
 name = "BactroMod"
-filename = "bactromod-2.0.jar"
+filename = "bactromod-2.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/2Ok6dkOD/versions/fN77JY1i/bactromod-2.0.jar"
+url = "https://cdn.modrinth.com/data/2Ok6dkOD/versions/FXRupR83/bactromod-2.2.jar"
 hash-format = "sha1"
-hash = "15a7fd925a35d32a8a02b800b45d58b12579f360"
+hash = "a4a02821478c1945102eaf55bfd09912a61d4ee8"
 
 [update]
 [update.modrinth]
 mod-id = "2Ok6dkOD"
-version = "fN77JY1i"
+version = "FXRupR83"

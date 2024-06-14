@@ -1,0 +1,7 @@
+name = "spruceui"
+filename = "spruceui-5.0.3+1.20.5.jar"
+
+[download]
+url = "https://github.com/optipack/ported-mods/releases/download/v1.4.3/spruceui-5.0.3+1.20.5.jar"
+hash-format = "sha1"
+hash = "953585546111ad6f23655dccb1f8d7f005f7e6f8"

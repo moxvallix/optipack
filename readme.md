@@ -6,11 +6,13 @@ OptiPack has long been a private pack of mods I have collected for my friends, m
 It is a pack that has been fine-tuned to fit our play style. I started making the pack as I wanted my friends to use the Fabric mod launcher, but still have all the features of OptiFine, but overtime was expanded to have other mods that would improve our gameplay experience, and deal with common gripes and problems we would encounter with the base game.
 
 ## Keybinds
+- `b`: Build Guide Menu
 - `c`: Zoom
+- `m`: Toggle Block Meter
 - `o`: Manage Shaders
 - `F4`: Custom HUD (Alternate/Better F3 Screen)
 - `F6`: Cinematic zoom
-- `Left Alt`: Pick tool
+- `Left Alt`: Block Meter Menu
 - `Right Alt`: Toggle Freecam
 - `End`: Death Log
 - `Ctrl + Click recipe in book`: Quick craft

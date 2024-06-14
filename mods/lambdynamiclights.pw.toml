@@ -1,13 +1,7 @@
-name = "LambDynamicLights"
-filename = "lambdynamiclights-2.3.4+1.20.4.jar"
-side = "client"
+name = "lambdynamiclights"
+filename = "lambdynamiclights-2.3.4+1.20.6-local.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/yBW8D80W/versions/mrQ8ZiyU/lambdynamiclights-2.3.4%2B1.20.4.jar"
+url = "https://github.com/optipack/ported-mods/releases/download/v1.4.3/lambdynamiclights-2.3.4+1.20.6-local.jar"
 hash-format = "sha1"
-hash = "b44b10647f170732825b28d8ff44735ae31e3837"
-
-[update]
-[update.modrinth]
-mod-id = "yBW8D80W"
-version = "mrQ8ZiyU"
+hash = "9bf29cf05833e848513ae337f2e11a061aab4a8a"
